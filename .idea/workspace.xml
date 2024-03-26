@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c513207-2670-4c71-a487-349346676a87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/boto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buckets/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buckets/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client_locator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ec2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ec2/ec2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ec2/vpc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iam/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_deployment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ansible.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711124237257</updated>
       <workItem from="1711124273661" duration="8636000" />
-      <workItem from="1711466154500" duration="11840000" />
+      <workItem from="1711466154500" duration="12171000" />
     </task>
     <servers />
   </component>
